@@ -1,5 +1,5 @@
 //Write function makeUpperCase.
 
-function makeUpperCase(str) {
-  // Code here
+const makeUpperCase = (str) => {
+  return str.toUpperCase();
 }
